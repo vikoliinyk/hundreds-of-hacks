@@ -1,2 +1,2 @@
-# hundreds-of-hacks
+# Hundreds of hacks
 Some tips and tricks for data scientists
